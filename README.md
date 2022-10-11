@@ -8,6 +8,7 @@ Below are the programming languages I am currently familiar with and use most of
   - C#
   - Python
   - Kotlin
+  - SQL
 
 <!---
 CurtisBuckyy/CurtisBuckyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
