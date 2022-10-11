@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Curtis Buckingham
 - 👀 I’m heavily interested in a great range of Software, Web and Mobile Application development. 
-- 🌱 I’m currently studying for a Bachelors degree within Computer Science and looking to use this platform to
+- 🌱 I’m currently studying for a Bachelor's degree within Computer Science and looking to use this platform to
 showcase my personal projects and knowledge using a range of programming languages. 
 
 Below are the programming languages I am currently familiar with and use most often:
