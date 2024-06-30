@@ -1,14 +1,4 @@
-- 👋 Hi, I’m Curtis Buckingham
-- 👀 I’m heavily interested in a great range of Software, Web and Mobile Application development. 
-- 🌱 I’m currently studying for a Bachelor's degree within Computer Science and looking to use this platform to
-showcase my personal projects and knowledge using a range of programming languages. 
-
-Below are the programming languages I am currently familiar with and use most often:
-
-  - C#
-  - Python
-  - Kotlin
-  - SQL
+Recent BSc Computer Science graduate from the University of Sunderland. Passionate about software and mobile app development, with a strong focus on Python, Flutter, and SQL. Experienced in creating innovative solutions and developing user-friendly applications. Eager to apply my skills and knowledge in a dynamic tech environment. Always learning and adapting to new technologies to drive success and innovation.
 
 <!---
 CurtisBuckyy/CurtisBuckyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
